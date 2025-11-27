@@ -10,9 +10,9 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"East US"'
   ###############################################
-  ### Replace AndresJMQ with GitHub username ###
+  ### Replace AndresJMQ  with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: AndresJMQ-ttt-app
+  AZURE_WEBAPP_NAME: AndresJMQ -ttt-app
 
 jobs:
   setup-up-azure-resources:
